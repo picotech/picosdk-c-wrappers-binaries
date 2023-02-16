@@ -1,0 +1,1 @@
+Extracted from PicoScope-6.11.13.2.pkg
